@@ -1,10 +1,5 @@
 # React Weather App - ReactJS Projects
 
-![](weather.gif)
-
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
-
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
@@ -22,10 +17,6 @@ https://openweathermap.org/current
 * `styled-components`
 * `axios`
 * `react-scripts`
-
-### Whom do I talk to? ###
-
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
 
 ### How can I appreciate this repo? ###
 
